@@ -1,0 +1,28 @@
+.wrapper {
+  margin: 20px 0 !important;
+  width: calc(100% - 40px);
+
+  .input {
+    color: white;
+    width: calc(100% - 40px);
+  }
+
+  input {
+    color: var(--very-white);
+  }
+
+  label {
+    color: var(--very-white);
+    font-weight: bold;
+  }
+
+  .symbol {
+    p {
+      color: var(--very-white);
+    }
+  }
+}
+
+.helperText {
+  color: white;
+}

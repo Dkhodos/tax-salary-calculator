@@ -1,0 +1,50 @@
+.message {
+  cursor: pointer;
+  border-bottom: 1px solid var(--very-white);
+  position: relative;
+  transition: .2s all ease-in-out;
+
+  &:hover {
+    background: darkgray;
+  }
+
+  &.selected {
+    background-color: var(--theme-color);
+    opacity: 1;
+  }
+
+  &.selected .primary, &.selected .secondary {
+    color: var(--very-white) !important;
+  }
+
+  .secondary {
+    color: var(--very-white) !important;
+  }
+
+  .primary {
+    font-weight: bold !important;
+    color: white !important;
+  }
+
+  .delete {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    transition: .1s all ease-in-out !important;
+
+    &:hover {
+      color: black;
+    }
+  }
+
+  .money {
+    color: var(--super-black);
+  }
+
+  .avatar {
+    background-color: var(--very-white) !important;
+  }
+}
+
+
+
