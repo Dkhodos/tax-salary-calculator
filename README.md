@@ -2,8 +2,7 @@
 - A React, Typscript & matirial UI project.
 - Powered by Vite ;)
 
-## 
-Install
+## Install
 ```shell
   npm install
 ```
