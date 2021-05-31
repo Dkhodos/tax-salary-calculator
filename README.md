@@ -1,13 +1,14 @@
 # Tax Salary Calculator
-A React, Typscript matirial UI project.
+A React, Typscript & matirial UI project.
 Powered by Vite ;)
 
-## install
+## 
+Install
 ```shell
   npm install
 ```
 
-## run
+## Run
 ```shell
   npm run dev
 ```
