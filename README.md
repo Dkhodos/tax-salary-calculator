@@ -1,6 +1,7 @@
 # Tax Salary Calculator
-- A React, Typscript & matirial UI project.
+- A React, Typescript & MaterialUI project.
 - Powered by Vite ;)
+[project-example](assets/images/example.png)
 
 ## Install
 ```shell
